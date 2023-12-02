@@ -1,0 +1,243 @@
+console load ArchieCollab/1-Archie/UltraflingUnderpass
+   1
+
+#start
+ 190
+
+#lvl_a-01
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+  14,R,D,X
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_a-02
+   9,R,D,X
+   1,R,J
+  16,R,D,X
+  11,R,J
+  15,R,D,X
+   8,R
+  11,R,J
+   6,R,D,X
+   4,R,J,G
+  12,R
+   1,R,J
+  40
+
+#lvl_a-03
+   3,R,J
+   1,R
+   2
+  14,R,U,X
+  15,R,J,G
+   6,R,K,G
+   7,R
+  10,R,X
+  11,R,J
+  16,U,X
+   2,J
+  16,L,J
+   3,K,G
+   7,L
+   3,R,J
+  14,U,X
+  14,R,J
+   3,R
+   1,R,K,G
+   7,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   7,R,D,X
+  40
+
+#lvl_a-04
+   7,R,D,X
+   3,R,J
+  36
+  18,R,D,X
+  33,R,J
+  14,R,U,X
+   9,R,J,G
+   7,R
+   1,R,J
+   6,R,D,X
+  40
+
+#lvl_a-05
+   8,R,D,X
+   1,R,J
+  26,R,D,X
+  15,R,J
+  43
+  15,U,X
+   2,J
+  15,L,K,G
+   7,J,G
+  17,R
+   7,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   3,R,J
+  17,R,D,X
+   1,R,J
+  40
+
+#lvl_a-06
+   6,R,J
+  15,R,D,X
+   3,R,J
+  15,R,D,X
+  10,R,D,J
+   5,R
+   3,R,J
+   7,R
+  14,R,U,X
+   5
+  19,R,U,C
+  31
+  18,R,D,X
+  29,R,D,J
+  14,R,X
+   2,R,J,G
+   3,R
+  40
+
+#lvl_a-07
+  11,R
+  18,D,X
+  30
+  15,R,D,X
+  28,R,D,J
+  28,R,U,X
+  31
+  15,R,D,X
+  36,R,D,J
+  23,R,U,X
+  34
+  17,R,D,X
+  30,R,D,J
+  13,U,X
+   4,J
+   4,R,J
+  11,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  12,R,D,X
+  40
+
+#lvl_a-08
+   1,R,J
+   7,R
+   7,R,J
+  11,R
+  10,R,J
+  15,U,X
+   4,R,J,G
+   1
+   4,R,J,G
+   7,R
+  12,R,J
+  11,K,G
+   1,L,K
+  12,J
+   1,L,K
+  16,L,J
+  12,K,G
+  10,J,G
+   3,R,K
+  15,U,X
+   4,L
+   8,R
+  55,R
+  15,R,D,X
+   1,R,J
+  14,R,D,X
+  15,R,J
+  14,R,X
+  41,R
+  15,R,U,X
+   1,L,J,G
+   2,L
+   9,L,J,G
+   7,L
+   4,L,Z
+   1,L,J
+   7,L
+  16,L,J
+  15,U,X
+   3,R,J,G
+   2
+   4,R,J,G
+   7,R
+   4,R,Z
+   1,R,J
+   7,R
+  14,R,J
+  37
+  15,R,D,X
+   5,R
+  37,R,D,J
+  23,R,U,X
+  52,R
+  15,U,X
+  11,R,J
+  11,R
+   5,R,Z
+   1,R,J
+   6,R
+   1,R,J
+   5,R,K,G
+   4,R,J,G
+   5,R,K,G
+   1,R,J,G
+  10,R
+   1,R,J
+  40
+
+#lvl_a-09
+   7,R,J
+  15,R,D,X
+  21,R,D,C
+   2,R
+   1,R,J,G
+  10,R
+   1
+   1,R,D,J
+  17,R,D,X
+  29,R,J
+  12,L,U,X
+  55,R
+  11,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+  22,R,D,X
+  35,R,J
+  14,R,X
+  33
+  15,R,D,X
+   1,R,J
+   8,R
+  40
+
+#lvl_a-10
+   6,R
+   8,R,J
+  14,R,U,X
+ 135
+
+ChapterTime: 0:43.384(2552)
