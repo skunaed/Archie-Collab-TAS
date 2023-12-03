@@ -1,4 +1,4 @@
-RecordCount: 1547
+RecordCount: 1669
 
 console load ArchieCollab/1-Archie/StarryCliffside
    1
@@ -183,15 +183,20 @@ console load ArchieCollab/1-Archie/StarryCliffside
   40
 
 #lvl_vertical
-  11,L
-   9,L,D,X
-   1,R,J
+  16,L
+  10,R,U,X
+   1,J,G
    7,R
-  15,R,D,J
-  12,U,X
-   5,J
-  12,R,K,G
-  27,R
+   5,L
+   4,Z
+   1,R,J
+   7,R,D
+  15,R,J
+   1,K,G
+   2,L,K
+   5,L
+   9,R,J,G
+  13,R
    5,U,X
    1,J
   15,L,X
@@ -273,4 +278,4 @@ console load ArchieCollab/1-Archie/StarryCliffside
   20,U,X
  135
 
-ChapterTime: 0:50.354(2962)
+ChapterTime: 0:50.303(2959)
