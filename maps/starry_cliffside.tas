@@ -1,7 +1,7 @@
 # ArchieCollab
 # https://gamebanana.com/mods/481836
 
-RecordCount: 1089
+RecordCount: 1112
 
 console load ArchieCollab/1-Archie/StarryCliffside
    1
@@ -170,11 +170,6 @@ console load ArchieCollab/1-Archie/StarryCliffside
   14,L,U,X
   55,L,G
   26,L,D
-
-
-
-
-
  110,U
   40
 
@@ -185,9 +180,8 @@ console load ArchieCollab/1-Archie/StarryCliffside
    7,R
   15,R,D,J
   12,U,X
-   2,J
-   4,R
-  12,R,J,G
+   5,J
+  12,R,K,G
   27,R
    5,U,X
    1,J
@@ -272,4 +266,4 @@ console load ArchieCollab/1-Archie/StarryCliffside
   19,U,X
  136
 
-ChapterTime: 0:54.281(3193)
+ChapterTime: 0:54.264(3192)
