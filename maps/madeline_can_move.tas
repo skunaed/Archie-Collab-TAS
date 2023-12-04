@@ -1,7 +1,7 @@
 console load ArchieCollab/1-Archie/MadelineCanMove
    1
 
-#Start
+#start
  190
 
 #lvl_Room 1
@@ -226,21 +226,16 @@ console load ArchieCollab/1-Archie/MadelineCanMove
   11,R,J
   12,R,K,G
   14,R,U,X
-   2,R,J,G
-   4,L,J
-   5,R,J
-   1,R,K,G
-   2,R,J,G
-   5,R
-   2
-   6,R
-   4,R,Z
-   1,L,J
-   5,L
-  10,L,J
+  11,R,J,G
+   1
+   1,K,G
+   4
+   2,R
+   1,L
+  24,L,J
   12,K,G
   12,J,G
-  12,K,G
+   7,K,G
   15,U,X
   12,J
    6,R,J
@@ -267,18 +262,15 @@ console load ArchieCollab/1-Archie/MadelineCanMove
    2,R,J,G
    7,R
   10,R,Z
+   5,R,J
+  15,D,X
+   9,R,D
+   2,D
+  15,L,D,X
+   4,R,D
+  14,R,D,X
    1,R,J
-   4,R
-  24,D,X
-   3,R,D
-   1,L,J
-  14,L,D,X
-  12,R,D
-   4,R,Z
-   1,R,J
-   7,R
-   3,R,J
-   5,L,U,X
- 134
+  10,R,D,X
+ 135
 
-ChapterTime: 0:36.278(2134)
+ChapterTime: 0:36.142(2126)
