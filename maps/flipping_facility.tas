@@ -1,4 +1,4 @@
-RecordCount: 706
+RecordCount: 752
 
 console load ArchieCollab/1-Archie/FlippingFacility
    1
@@ -210,17 +210,13 @@ console load ArchieCollab/1-Archie/FlippingFacility
    4
    5,R,X
    2,R,J,G
-  15,R
-   3,D
-   7,D
-   2,R
-   8,D
-   7,L,Z
+  15,R,D
+  19,D
+  10,R,Z
    1,R,J
-   6,R
-   1,R,J
+   4,R
   17,R,D,X
-  21,R,J
+  20,R,J
   14,U,X
   15,D,C
   31,R,X
@@ -316,13 +312,15 @@ console load ArchieCollab/1-Archie/FlippingFacility
 
 #lvl_dragon-end
   14,R,D,X
-  40,R,J
-  17,R,Z
+  35,R,J
+   5,J
+  15,R,Z
+   2
   29,U,X
-  14,L,U,C
-  21,L,J
+  10,L,U,C
+  24,L,J
   22,L,X
   37,R,C
  103,R
 
-ChapterTime: 0:47.209(2777)
+ChapterTime: 0:47.158(2774)
