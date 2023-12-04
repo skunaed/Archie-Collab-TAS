@@ -1,4 +1,4 @@
-RecordCount: 1669
+RecordCount: 1891
 
 console load ArchieCollab/1-Archie/StarryCliffside
    1
@@ -39,15 +39,15 @@ console load ArchieCollab/1-Archie/StarryCliffside
    8,R,J
    3,R
   17,R,D,X
-   2,R,J
-   4,R
+   1,R,J
+   5,R
   40
 
 #lvl_up_right
-  13,R,X
-   3,R,J
-  13,R
-  14,R,Z
+  12,R,D,X
+   2,R,J
+   3,R
+  14,R,U,Z
    1,S
    1,D,J
   69,O
@@ -65,25 +65,24 @@ console load ArchieCollab/1-Archie/StarryCliffside
   11,L
    2,L,J
    8,L
-  10,L,J
-  13,L,D,X
-   4,L,J,G
-  14,L
-  16,L,J
+   7,L,J
+   4,L
+  12,L,D,X
+   1,L,J,G
+  11,L
+  12,L,J
+   5,L
+   3,L,J
   40
 
 #lvl_up_left
-   2,L,J
+   1,L
   15,L,D,X
-   1,L,D
-   1,D
-   1,L,D
+   3,L,D
    1,L
    2,L,D
-   3,L,D,J
-   4,L
-   1
-   1,J
+   3,L,J
+   6
   14,L,U,X
    1,S
    1,D,J
@@ -178,23 +177,26 @@ console load ArchieCollab/1-Archie/StarryCliffside
   20,L,J
   62,D
   11
-  92,U,X
-   5,U,C
+  89,U,X
+   9,L,U,C
   40
 
 #lvl_vertical
-  16,L
-  10,R,U,X
-   1,J,G
-   7,R
+  11,L
+  11,R,U,X
+   2,J,G
+   6,R
    5,L
    4,Z
    1,R,J
-   7,R,D
+   3
+   4,R,D
   15,R,J
    1,K,G
-   2,L,K
-   5,L
+   1,L
+   1,R
+   1,J,G
+   4,L
    9,R,J,G
   13,R
    5,U,X
@@ -278,4 +280,4 @@ console load ArchieCollab/1-Archie/StarryCliffside
   20,U,X
  135
 
-ChapterTime: 0:50.303(2959)
+ChapterTime: 0:49.997(2941)
