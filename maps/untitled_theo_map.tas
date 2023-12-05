@@ -1,13 +1,10 @@
-# ArchieCollab
-# https://gamebanana.com/mods/481836
-
 RecordCount: 334
 
 console load ArchieCollab/1-Archie/UntitledTheoMap
    1
 
 #Start
- 191
+ 190
 
 #lvl_00-intro
   14,L,Z
