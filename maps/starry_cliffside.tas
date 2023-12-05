@@ -6,7 +6,7 @@ console load ArchieCollab/1-Archie/StarryCliffside
 #Start
  190
 
-#lvl_tutorial_0c
+#lvl_tutorial_0
   14,U,X
    1,J
   15,L,U,Z
@@ -28,7 +28,7 @@ console load ArchieCollab/1-Archie/StarryCliffside
    1,R,K
   40
 
-#lvl_hub (0)
+#lvl_hub
   11,R
    8,U,X
   21,R,U,C
