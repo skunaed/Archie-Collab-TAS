@@ -1,4 +1,4 @@
-RecordCount: 1891
+RecordCount: 1934
 
 console load ArchieCollab/1-Archie/StarryCliffside
    1
@@ -272,12 +272,14 @@ console load ArchieCollab/1-Archie/StarryCliffside
   15,R,U,X
   11,U,C
   11,U,X
-  11,L,C
-  16,U,X
-  29,R,J
+  11,L,Z
+  14,U,X
+  28,R,J
   15,U,X
-  18
-  20,U,X
- 135
+   4,R
+Repeat 68
+   1,L
+   1,R
+EndRepeat
 
-ChapterTime: 0:49.997(2941)
+ChapterTime: 0:49.980(2940)
