@@ -1,0 +1,47 @@
+RecordCount: 194
+
+console load ArchieCollab/0-Lobbies/1-Archie 1216 616
+   1
+
+#lvl_lobby
+  36
+   4,Z
+   1,R,J
+   1,R
+   2,R,K,G
+   1
+   4,R
+   1,R,K
+   5,R
+  10,R,D,J
+   1,L,J
+   3,K,G
+   1,R,K
+  14,U,X
+  13,R,J
+   2,R
+   1,R,K,G
+   2,R
+   1
+   4,R
+   5,R,Z
+   1,R,J
+   6,R
+   1,R,K
+   8,R,J
+  32,R,D,X
+   1,D
+   5,R,D
+   1,J
+   2,R,J
+  15,R,U,Z
+   2,L,J,G
+   1,L,K,G
+   1,R,K
+   2,L,K
+   2,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,N
+#0:02.601(153)
