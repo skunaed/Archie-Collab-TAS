@@ -1,4 +1,4 @@
-RecordCount: 1733
+RecordCount: 1784
 
 console load ArchieCollab/1-Archie/LemonTemple
    1
@@ -455,13 +455,13 @@ console load ArchieCollab/1-Archie/LemonTemple
    7,R
   16,R,J
    5,D,X
-  33,R
-  25
-   2,L
-   3,J
-   6,K,G
-  10,L,K
-  12,U,X
+  30,R
+  17
+  13,U,X
+  12,J
+   3,R,J
+   4,L,J
+  13,L,U,X
  135
 
-ChapterTime: 1:05.382(3846)
+ChapterTime: 1:05.348(3844)
