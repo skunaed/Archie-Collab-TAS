@@ -1,4 +1,4 @@
-RecordCount: 1784
+RecordCount: 1844
 
 console load ArchieCollab/1-Archie/LemonTemple
    1
@@ -390,23 +390,17 @@ console load ArchieCollab/1-Archie/LemonTemple
    1,R,J
   13,R,K,G
    5,R,J,G
-  10,R
+   9,R
    1,R,J
-  14,R
-   1,R,J
-   3,R
-  40
+  21,R
+  43
 
 #lvl_Exhaust_5
-  14,R
-  11,R,J
-   1,R,K,G
-   2,R,J,G
-   5,R
-   1,R,J
-   5,R
+   4,R,X
+  12,R,J
+   9,R
   12
-   5,L,X
+   7,L,X
    5,L,J,G
   12,L
    1,L,K
@@ -464,4 +458,4 @@ console load ArchieCollab/1-Archie/LemonTemple
   13,L,U,X
  135
 
-ChapterTime: 1:05.348(3844)
+ChapterTime: 1:05.178(3834)
