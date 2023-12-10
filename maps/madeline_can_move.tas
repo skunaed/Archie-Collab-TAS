@@ -96,9 +96,9 @@ console load ArchieCollab/1-Archie/MadelineCanMove
    3,L,J
    5,L
    1,L,J
-  31,L
-   5,L,D
-  14,L,D,X
+  28,L
+   9,L,D
+  12,L,D,X
    3,R,J
   35,R,D,X
    6,R,Z
@@ -276,4 +276,4 @@ console load ArchieCollab/1-Archie/MadelineCanMove
   10,R,D,X
  135
 
-ChapterTime: 0:35.887(2111)
+ChapterTime: 0:35.870(2110)
