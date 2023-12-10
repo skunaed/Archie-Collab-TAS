@@ -1,4 +1,4 @@
-RecordCount: 2046
+RecordCount: 2326
 
 console load ArchieCollab/1-Archie/LemonTemple
    1
@@ -131,76 +131,97 @@ console load ArchieCollab/1-Archie/LemonTemple
   12,L
   14,R,X
    2,R,J
-  37,R,D,X
-   4,R,J
+  30,R,D,X
+   4,R
+   2,D
+   1
+   2,L,J
+   8,R,U,X
   40
 
-
 #lvl_Energize_3
+   6,R
+  10,J
+   2
+  15,U,X
+  24,R
+  18,R,D
+   6,D
+   5,D,X
    1,R,J
-   5,R,D,X
-  36,R
-   8,R,Z
-   1,R,J
-   7,R
-  11,R,J
-  15,R
+   2,R
+  31
+   7,R,Z
    1,R,J
    5,R
-  15,L,X
-   3,D
-  29,L,D
-   4,L
    2
-   8,R,D
-   5,R,U,Z
-  41,R,D
+   1,R
+   6,R,J
+   1,J
+  16,R,J
+  38,L,X
+   3,L
+   2,L,D
+   7,D
+   1,L,D
+   1,D
+   4,L,D
    2,D
-   8
+  10,R,D
+   5,R,U,X
+   1,R
+   3
+  10,R
+  29,R,D
+   4,D
+   1,R,D
+   1,D
   15,R,X
-  15,L,U,C
+  15,L,U,Z
   15,L,D,X
   15,L,C
-  16,L,X
+  15,L,X
   16,L,C
-  19,L,U,Z
-  11,R,J,G
+  15,L,U,Z
+   1,R,J,G
+   8,R,K,G
+   1,J
   10,R,Z
   10,R,J
   14,R,U,X
   12,R,J,G
-  12,R,K,G
-  12,R,J,G
    6,R,K,G
-   5,D,X
-  40,R
-   3
-   4,L,Z
-   1,L,J
-   8,L
-  24,L,K
-  36,R,D,X
-  13,R,Z
+   3,L,K
+   1,L,K
+   1,R,K
+   1,K
+   1,R,J,G
+   1,J
+   4,R,J
+   7,R
+  10,R,Z
+   1,R,J
+   3,R
+   1,R,J
+   2,R
+   9,R,K
+   2,R
+   8,R,Z
    1,R,J
    6,R
    1,R,J
-  10,R,D
-   3,R
-  12,R,U,X
-   1,R,J,G
-   9,R
-   5,R,D,X
-   1,R,J
-   3,R
+   7,R,D,X
   40
 
 #lvl_Energize_4
-   9,R
-   6,R,J
-   2,J
+   5,R
+   1,R,J
+   1,J
+   5,R,J
    5,L,U,X
   47,L,G
-  25,U,G
+  23,U,G
+   2,G
    2,J,G
    2,L,J
    1,L,K,G
@@ -464,4 +485,4 @@ console load ArchieCollab/1-Archie/LemonTemple
   13,L,U,X
  135
 
-ChapterTime: 1:04.804(3812)
+ChapterTime: 1:03.648(3744)
