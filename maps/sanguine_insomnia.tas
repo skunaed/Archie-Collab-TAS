@@ -1,6 +1,6 @@
 #TAS by Lmjacks
 
-RecordCount: 1929
+RecordCount: 1962
 
 console load ArchieCollab/1-Archie/SanguineInsomnia
    1
@@ -122,16 +122,17 @@ EndStunPause
   15,R,D,X
    8,R
    1,G
-  16,D
-   1,R,D
-   5,R,Z
+  15,D,X
+   2,R,J
+   6,R,Z
    1,R,J
    5,R
   40
 
 #lvl_ferriswheel
+   1,R
    1,R,K
-   8,R,J
+   7,R,J
   31,R,X
    5
    1,G
@@ -177,10 +178,8 @@ EndStunPause
    7,R,U,X
   12
   16,U,X
-   1,J,G
-   1,K
-   2,J,G
    1,R,J
+   3,R,K
    7,R
   22,U,X
   40
@@ -336,4 +335,4 @@ EndStunPause
   14,R,U,X
  135,R,D
 
-ChapterTime: 0:51.850(3050)
+ChapterTime: 0:51.799(3047)
