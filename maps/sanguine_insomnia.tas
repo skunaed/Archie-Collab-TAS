@@ -1,6 +1,6 @@
 #TAS by Lmjacks
 
-RecordCount: 1123
+RecordCount: 1929
 
 console load ArchieCollab/1-Archie/SanguineInsomnia
    1
@@ -186,10 +186,154 @@ EndStunPause
   40
 
 #lvl_paraglide
-  11,R
- 100,U,X
+  11,R,G
+  35,U,X
+   6,R,D,C
+   3,R,J
+   9,R
+   1,R,J
+   5,R
+  13
+   1,N
+  37
+  69,F,4.2069
+   1,J
+  19
+   4,Z
+   1,L,J
+   7,L,D
+   1,L,D
+   2,L,D,J
+   2,L
+   1,L,J
+  15,R,D,X
+   1,L,D
+  10,R,D
+   4,Z
+   2,R,J
+   8,R
+   1,R,J
+   8,R,D,X
+   1,R,J
+   3,R
+   1,R,K
+   3,R
+   2,R,J
+   4,J
+  15,R,D,X
+  19,D,C
+  40
 
+#lvl_rollercoaster
+ 137,D
+  15,L,D
+   1,D
+   1,L
+   1
+  18,L,X
+   1,G
+   1,R,J
+   1,R,K
+   5,R
+   2,R,K
+  15,R,D,X
+   3,R
+   5,L,D,C
+   1,R,J
+  10,R
+  14,R,D,X
+   9,R,J
+   1,J
+   9
+   1,R
+  15,D
+   1
+  16,L,X
+   8,U,C
+  23
+  31,U,X
+  26
+   1,R,J,G
+   7
+   4,G
+  14,U,X
+   8
+  14,R,Z
+   1,R,J
+   7,R,D,X
+  18,R
+   3
+   6,R
+   1
+   1,R
+   6
+  15,U,X
+   9,L
+  11,R,U,X
+   2,R,J,G
+   7,R
+#spinner cyucle
+   1,D
+#
+   2,R,J
+  14,U,X
+  40
 
+#lvl_orbital
+   1,R,J
+  10,R
+   7,R,D,X
+   1,R,J
+   3,R
+   1,R,K
+   3,R
+   2,J
+   4
+   1
+   6,K
+   1
+   1,K
+   1
+  14,R,D,X
+   1,R,J
+   1,L,K,G
+   7,R,U,X
+   1,R
+  41,R
+   4,R
+  13
+#+2f, dash late to get
+   3,R
+   1
+  11,U,X
+   8
+#more speed here
+   7,L
+   1,L
+   1,L
+   1,L
+  70,L
+   2
+  10,L
+StunPause
+   8,L
+SkipInput 3 1
+   9,L,Z
+EndStunPause
+   5,L,Z
+   6,L,J
+   4,L
+   1,L,J
+   7,L
+   9,L,J
+  15,L,U,X
+   7,L
+   2
+  13,J
+   4,K,G
+  10,L,Z
+  33,R,J
+  14,R,U,X
+ 135,R,D
 
-
-
+ChapterTime: 0:51.850(3050)
