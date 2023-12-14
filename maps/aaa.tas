@@ -1,4 +1,4 @@
-RecordCount: 1066
+RecordCount: 1329
 
 console load ArchieCollab/1-Archie/TripleA
    1
@@ -166,89 +166,83 @@ console load ArchieCollab/1-Archie/TripleA
    1,L
   15,R
   12,U,Z
-   6,R,J
-  21,J,G
+  12,R,J
+   7,U,X
+  21,G
+   1,D
+   1,J
+  10,L,Z
+   1,R,J
+  13,R,G
+  34,R,D,G
+  12,L,D,G
+  16,R,D,G
+  24,L,D,G
    1,L
-  15,U,X
-  12,L,D,C
-   3,R,J
-  27,R,D,X
-  13,L,D
-  40,R
-  22,L
-  21,L,G
-   4,L
   15,L,X
-  13,L,D
-   7,L,X
-  15,L,J
-   8,L,K,G
-   7,L,D,X
+  14,L,D,C
+   2,L,J
+   5,L
+  14,L,U,X
+   1,L,K,G
+   3,L
+   6,L,D,X
   14,L
-  93
-   9,J
-  14,K,G
-  14,U,X
+ 100
+  23,J,G
+   5,U,X
   40
 
 #lvl_a-05
-  18,R,J
+  11,R,J
    5,R,Z
    1,R,J
-   9,R
-   1,R,J
-   1,R
-  15,R,U,X
+   7,R
+   4,R,J
+  26,R
+  21,L,G
    1,L
-  45,L,G
-   1,D
-   2,L
-   4,J
-  10,L,Z
-   2,R,J
-  17,R,D
-   5,L,U,X
-  21,L,U,G
-   1,D
-   6,D,X
-   3,L
-  15,G
-  22,L,G
-  11,L,J,G
-   1,L
-  15,U,X
-  11,R,C
-  18,R,G
-  16,D,G
-   1,R
-  11,L,D
-   7,L,U,X
-   1,R
-   7,L,J,G
-  52,G
-   5,L,X
-   9,L,J,G
-  26,L,G
+  15,L,U,X
+   8,L,D,C
+  33
+   3,R
+  19,L,G
    1
-   1,J
-   1,L,K,G
-   4,R,K
-   9,R
-   4,R,D,J
-   4,R
-  14,U,X
-  24,G
+  12,J
+  17,L,X
+  24,R,G
    1,L
-  28,D,X
-  10,R,C
+  15,R,D
+  10,R,U,Z
+  20,R,D
+   4,R
+  23,R,X
+   1,J,G
+   5
+   2,L
+   1,L,J
+  11,L
+  15,L,D,X
+   1,L,J,G
+  52,L,G
+   3,U,G
+  10,U,X
+  14,G
+   2,R,G
+  11,J,G
+   3,L,J,G
+  10,K,G
+   8,L,J
+  26,D,X
+   5,R,C
   23,R,J,G
    1,R,K,G
    1,R,J,G
-  55,R
+  54,R
    6,L,Z
    1,R,J
    1,R,K,G
-   2,R
+   3,R
   40
 
 #lvl_a-04
@@ -260,29 +254,26 @@ console load ArchieCollab/1-Archie/TripleA
    5,R
    5,R,J
    1,R,K
-   6,R
+   8,R
   14,R,D,X
-  37,R,D,G
-   1,R,D
-   4,R,Z
    1,R,J
-   7,R
-   2,J
-   2,R,J
-   1,J
-  15,U,X
-  19,L,U,C
-   8,L,X
-   1,L,J,G
-  41,L,G
-   1,J,G
-   1,K,G
-  15,R,D,X
+  19,R,D,X
+   9,R
+   5,R,J
+   7,J
+  13,U,X
+   5,L,J
+  15,L,X
+   1,R,J
+   4,R,K
+  25,R
+  22,R,Z
+  14,R,V
+   6,R,J
    5,R
-   8,L
   21,L,G
    1,D
-  13,L,X
+   9,L,X
    1,J,G
   20,L,D
   21,G
@@ -319,4 +310,4 @@ endrepeat
    5,R,J
   97
 
-ChapterTime: 0:57.256(3368)
+ChapterTime: 0:55.743(3279)
