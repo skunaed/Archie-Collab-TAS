@@ -1,4 +1,4 @@
-RecordCount: 2142
+RecordCount: 2153
 
 console load ArchieCollab/1-Archie/StarryCliffside
    1
@@ -20,16 +20,13 @@ console load ArchieCollab/1-Archie/StarryCliffside
   40
 
 #lvl_tutorial_3
-  34
-  14,R,U,Z
-   1,L
-   1,J
-   3,K,G
-   1,R,K
+  36
+   5,R,X
+  11,R,J
   40
 
 #lvl_hub
-  11,R
+  11
    8,U,X
   21,R,U,C
   14,L,U,X
@@ -169,4 +166,4 @@ Repeat 68
    1,R
 EndRepeat
 
-ChapterTime: 0:29.512(1736)
+ChapterTime: 0:29.478(1734)
