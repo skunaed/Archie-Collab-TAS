@@ -1,4 +1,4 @@
-RecordCount: 1329
+RecordCount: 1527
 
 console load ArchieCollab/1-Archie/TripleA
    1
@@ -249,24 +249,25 @@ console load ArchieCollab/1-Archie/TripleA
    5,R
   12,R,U,X
    3,R,J,G
-  10,R
+   9,R
+   1
    1,R,J
-   5,R
-   5,R,J
-   1,R,K
-   8,R
+  13,R,D,X
+   1,R,J,G
+   4,R
   14,R,D,X
    1,R,J
-  19,R,D,X
-   9,R
-   5,R,J
-   7,J
+  15,R,D,X
+  17,R,D,C
+  10,R,J
   13,U,X
    5,L,J
-  15,L,X
-   1,R,J
+  13,L,X
+   4,R,J
    4,R,K
-  25,R
+   9,R
+   1,R,K
+  14,R
   22,R,Z
   14,R,V
    6,R,J
@@ -295,19 +296,21 @@ console load ArchieCollab/1-Archie/TripleA
   40
 
 #lvl_heart
-  11,R,G
-repeat 34
-   1
-   1,G
-endrepeat
-   1,L,J
-   6,L,K
-  17,L
-  14,R,X
-   1,R,J,G
-   8,R
-  37,R,U,Z
-   5,R,J
-  97
+   7,R
+  20,D,X
+Repeat 16
+   1,D
+   1,R
+   1,D
+   1,L
+EndRepeat
+   2,J
+  14,L,Z
+   1,R,J
+  14,R,U,X
+   8,R,J,G
+  42,R,U,X
+   4,R,J,G
+  93
 
-ChapterTime: 0:55.743(3279)
+ChapterTime: 0:55.624(3272)
