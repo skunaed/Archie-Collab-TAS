@@ -1,0 +1,135 @@
+RecordCount: 446
+
+console load ArchieCollab/1-Archie/AmericanHousingCrisis
+   1
+
+#Start
+  54
+
+#spinner cycle
+   0
+
+#lvl_The Trout Market is in a Concerning Recession
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   3,R
+   9,R,D,X
+   1,L,J
+   1,L,K
+  12,L
+   5,D,X
+   5
+   5,L
+   1,L,J
+  13,L
+  10,R,D,X
+   1,R,J
+   4,R
+  19,R,D,X
+  47,R,J
+  14,R,Z
+   1,R,J
+   8,R
+   1,R,J
+  16,R,X
+   6,R,Z
+  34,R,J
+  14,R,Z
+  28,R,J
+  14,R,Z
+   1,R,J
+  14,R,D,X
+   1,R,J
+   9,R,D,X
+
+#lvl_Fluctuation of Gas Prices will Increase Carbon Footprint
+   5,R,D,X
+   1,R,J
+   7,R
+   5,R,J
+  19,U,X
+   8,J
+  13,L,X
+   3,L,J,G
+  21,L,K,G
+   9,L
+  49,L,U,X
+stunpause
+  14,L
+endstunpause
+   7,L
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+   5,L,D,X
+   1,L,J
+   1,L
+
+#lvl_Cancellation of the NAFTA Will Increase Steel Prices In Canada
+   3
+   3,L
+  13,L,D,J
+   3,K
+  18,U,X
+  15,L,C
+  18,L,D
+  15,R,D,X
+   8,R
+   4,L
+  15,L,D,X
+  11,L
+  12,L,J
+  15,L,X
+   4,L,Z
+  18,L,J
+  14,L,U,X
+   6
+  13,L
+   7,L,Z
+  12
+  20,R
+   1,J
+  10,L,J
+   2,J
+   2,R,K,G
+repeat 5
+   1,L,K
+   1,K
+endrepeat
+   1,J
+  14,U,X
+   4,L,J
+  13,L,U,Z
+   4,L,J,G
+   2,L,K,G
+  52,L,G
+   1,D,G
+   1,L,J,G
+   1,L,K,G
+   3,L,J,G
+  33,L,D
+  15,D,X
+   5
+  16,R
+  21,L,U,X
+  15,U,C
+   6
+   9,L
+  10,R,Z
+  41,L,J
+  26,L,X
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  13,L,D,X
+
+#lvl_Madeline does not vote in the US Presidential Election
+   3
+   1,L,D,X
+ 666,L,J
