@@ -1,4 +1,4 @@
-RecordCount: 1553
+RecordCount: 1555
 
 console load ArchieCollab/1-Archie/TripleA
    1
@@ -238,7 +238,7 @@ console load ArchieCollab/1-Archie/TripleA
   23,R,J,G
    1,R,K,G
    1,R,J,G
-  44,R
+  43,R
   14,L,Z
    1,R,J
    5,R,D,X
@@ -314,4 +314,4 @@ EndRepeat
   10,R,U,X
  135
 
-ChapterTime: 0:55.556(3268)
+ChapterTime: 0:55.539(3267)
