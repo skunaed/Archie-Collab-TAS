@@ -1,4 +1,4 @@
-RecordCount: 346
+RecordCount: 359
 
 console load ArchieCollab/1-Archie/ForestRushB-side
 
@@ -108,16 +108,17 @@ console load ArchieCollab/1-Archie/ForestRushB-side
 
 #lvl_a08-heart
   23,R,D
-  22,L,D
-  61,R,D
-  11,R,X
-   8,R,J
-  14,U,X
+  21,L,D
+  55,R,D
+  15,R,D,X
+  10,R,J
+
+  15,U,X
   18,R,J
   12,R,K,G
   12,R,J,G
   12,R,K,G
-   7,L,J
+   4,L,J
    4,X
  135,D
-ChapterTime: 0:21.369(1257)
+ChapterTime: 0:21.318(1254)
