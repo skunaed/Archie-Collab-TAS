@@ -1,4 +1,4 @@
-RecordCount: 1283
+RecordCount: 1338
 
 console load ArchieCollab/1-Archie/MeteorShower
    1
@@ -43,12 +43,11 @@ console load ArchieCollab/1-Archie/MeteorShower
   11,R,X
    8,R,D,C
   10,R,J
-  14,R,U,Z
+  14,R,U,C
   15,U,X
-  11,U,Z
-  28,R,D,X
-   4,R,Z
-   4,R,J
+   8,R,U,C
+   1,R,J,G
+  30,R
   15,R,U,X
   10,R,U,C
    8,R,D,X
@@ -217,12 +216,13 @@ console load ArchieCollab/1-Archie/MeteorShower
    3,R,J,G
    6,R,D,X
    1,R,J
-   9,R,K,G
+   1,R,K,G
+   8,R,J,G
   40
 
 #lvl_tower
-  11,R,K
-  15,R,U,X
+  11,R,J
+  14,R,U,X
   19,U,C
   22,U,X
   16,L,U,C
@@ -347,24 +347,27 @@ endrepeat
   10,L,D,X
   15,R,J
   11,J
-  15,K
+  14,K
    5,R,K
    2,R,J
-  13,R,Z
-   1,R,J
-   6,R
+   9,R,Z
+  11,R,J
   40
 
 #lvl_heart
-   1,R
-   7,R,J
-  18,R,D,X
-   1,R,J
-   2,R,K,G
-  11,R
-  12,R,J
+   3,R,J
+   3,R
   15,R,D,X
-   9,R,J
-  10,R,X
+   1,R,J
+   1,R
+  10,R,D,X
+   1,R,K,G
+  11,R
+   2,R,J
+   8,R
+   7,R,J
+  15,R,D,X
+   1,R,J
+  10,R,U,X
  135
-ChapterTime: 0:51.901(3053)
+ChapterTime: 0:51.816(3048)
