@@ -1,4 +1,4 @@
-RecordCount: 1272
+RecordCount: 1283
 
 console load ArchieCollab/1-Archie/MeteorShower
    1
@@ -215,14 +215,14 @@ console load ArchieCollab/1-Archie/MeteorShower
    2,R,J
    5,R,K,G
    3,R,J,G
-   5,R,U,X
-   3,R,J,G
+   6,R,D,X
+   1,R,J
    9,R,K,G
   40
 
 #lvl_tower
-  13,R,K
-  14,R,U,X
+  11,R,K
+  15,R,U,X
   19,U,C
   22,U,X
   16,L,U,C
@@ -367,5 +367,4 @@ endrepeat
    9,R,J
   10,R,X
  135
-
-ChapterTime: 0:51.935(3055)
+ChapterTime: 0:51.901(3053)
