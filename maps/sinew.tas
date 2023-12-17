@@ -1,4 +1,4 @@
-RecordCount: 1644
+RecordCount: 1656
 
 console load ArchieCollab/1-Archie/Sinew
    1
@@ -296,13 +296,10 @@ console load ArchieCollab/1-Archie/Sinew
    4,L,Z
    1,L,J
    7,L
-   1,L,J
-   2,L
-  12,L,D,X
-   4,L,J
-  10,L,K,G
-  15,U,Z
-  10,U,C
+   7,L,J
+   8,L
+  15,L,U,Z
+   9,U,C
   40
 
 #lvl_a5
@@ -350,4 +347,4 @@ console load ArchieCollab/1-Archie/Sinew
   14,L,U,X
  135
 
-ChapterTime: 0:58.055(3415)
+ChapterTime: 0:57.851(3403)
