@@ -1,13 +1,13 @@
-RecordCount: 359
+RecordCount: 480
 
 console load ArchieCollab/1-Archie/ForestRushB-side
 
-   1
 #Start
+   1
 
 #lvl_a00
   61
-#lvl_tutorial spinner cycle
+##lvl_tutorial spinner cycle
    2
 ##
   10,R,Z
@@ -76,43 +76,45 @@ console load ArchieCollab/1-Archie/ForestRushB-side
   40
 
 #lvl_a03
+
    5,R
   13,R,U,Z
    1,R,J,G
   23,R
   15,R,D,X
-   6,R
+   4,R
   40
 
 #lvl_a04
+   2
   10,R,D
-   8,R
+  11,R
   10,R,D,X
   40
 
 #lvl_a05
    5,R,D,X
-   7,R,D
-  19,R
-   1,R,J
-  30,R,D,X
+   1,R
+  10,R,D
+  30,R,D
+  10,R
+   5,R,D
   40
 
 #lvl_a06
-  34,R,D
+  41,R,D
   40
 
 #lvl_a07
-  34,R,D
+  41,R,D
   40
 
 #lvl_a08-heart
-  23,R,D
-  21,L,D
-  55,R,D
-  15,R,D,X
+  29,R,D
+  12,L,D
+  32,R,D
+  16,R,D,X
   10,R,J
-
   15,U,X
   18,R,J
   12,R,K,G
@@ -121,4 +123,5 @@ console load ArchieCollab/1-Archie/ForestRushB-side
    4,L,J
    4,X
  135,D
-ChapterTime: 0:21.318(1254)
+
+ChapterTime: 0:21.216(1248)
