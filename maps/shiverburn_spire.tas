@@ -1,4 +1,4 @@
-RecordCount: 1643
+RecordCount: 1919
 
 console load ArchieCollab/1-Archie/ShiverburnSpire
    1
@@ -118,11 +118,15 @@ endrepeat
   12,U,X
   20,L,C
    5,L,J,G
-   9,J,G
-  18,U,X
-  21,R,C
-  15,R,X
-  18,U,C
+   1,L
+   4
+   1,J
+   1,L,J
+   1,J
+  15,U,X
+  21,R,U,C
+  18,R,Z
+  12,U,C
   12,R,D,X
    2,L,J
    8,L
@@ -172,20 +176,24 @@ endrepeat
    6,U,Z
   89,L,X
    5,L,U,C
-   3,J,G
-   1,R,J
-  10,L
-   4
-   2,L
-   1,L,G
-  11,L,J,G
-  71,L,X
-  55,L
-  15,L,U,C
-   2,L
-   2,R,J,G
-   8,J
+   1,J,G
+   2,L,J
+   1,R
+  14,L
+   2,L,G
+   1,R
+   6,L,Z
+  18,L,J,G
+  41,L
+   7,L,D
    2,R,J
+   5,R
+   1,R,J
+   8,R
+  28,L
+   2,R,J,G
+   6,J
+   4,R,J
    2,R,K,G
   44,L,C
   11,L,D,X
@@ -226,14 +234,13 @@ endrepeat
    1
    4,L
    1,L,J,G
-  17,L,K,G
- 
-  15,U,X
+  15,L,K,G
+  15,U,Z
   18,J
    7,K,G
   15,U,X
   18,R,J
-   4,L,K
+   5,L,K
   12,R,D,X
    3,R,J
   15,R,D,X
@@ -278,10 +285,71 @@ endrepeat
   22,L,U,C
   15,U,X
   10,L
-repeat 87
+  14
+#morse
+   1,D
    1
    1,D
-endrepeat
+  13
+   1,D
+   1
+   2,D
+   1
+   1,D
+   1
+   1,D
+   8
+   2,D
+   1
+   2,D
+   1
+   2,D
+   8
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   2,D
+   8
+   1,D
+  13
+   1,D
+   1
+   1,D
+   1
+   1,D
+   8
+   1,D
+   8
+   1,D
+   1
+   1,D
+   1
+   1,D
+   1
+   2,D
+   8
+   1,D
+   1
+   2,D
+   8
+   2,D
+   1
+   1,D
+   1
+   1,D
+   8
+   1,D
+   1
+   2,D
+   1
+   1,D
+   8
+   1,D
+   1
+   2,D
    5,R,J
   14,U,X
    4,L,J
@@ -351,16 +419,22 @@ endrepeat
    1,G
   15,U,G
   16,R,G
-   7,R,Z
-  23,R,J
-   8,R,X
-  15,R,J,G
+   4,R,Z
+  19,R,J
+   6,R
+   7,R,X
+   1,R,J,G
+   9,R,K,G
+   1,K
+   3,R,K
   14,R,X
-  21,R,J,G
-   2,R
+   1,R,J,G
+  11,R,K,G
+  10,R
    6,G
    2,U,G
-  24,G
+  23,G
+   1,U,G
    4,L,Z
   12,L,J
   15,L,D,X
@@ -390,13 +464,18 @@ endrepeat
    4,R,Z
   19,R,J
   26
-  12,R
-  15,U,X
-  17,R
+   3,L
+  15,R,U,X
+   1
   12,L,J,G
-  10,K,G
-   5,L
-  11,L,Z
+   8,K,G
+   1,L,J,G
+   4,R,J
+   6,J
+   2,L,J
+   1,L,K,G
+   2,L
+  14,L,Z
    2,L,J
    9,L
   24,L,J
@@ -434,4 +513,4 @@ endrepeat
   14,R,U,X
  135
 
-ChapterTime: 1:23.912(4936)
+ChapterTime: 1:22.892(4876)
