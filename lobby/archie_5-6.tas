@@ -1,4 +1,4 @@
-RecordCount: 107
+RecordCount: 113
 
 console load ArchieCollab/0-Lobbies/1-Archie 1424 224
    1
@@ -24,7 +24,10 @@ console load ArchieCollab/0-Lobbies/1-Archie 1424 224
    1,L,J
    8,L
   15,D,X
-   6,R,D
-   4,R
+   4,R,D
+   1,R
+   1,R,D
+   4,R,Z
+   1,R,J
    1,N
-#0:02.244(132)
+#0:02.210(130)
