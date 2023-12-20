@@ -1,4 +1,4 @@
-RecordCount: 2255
+RecordCount: 2539
 
 console load ArchieCollab/1-Archie/AmericanHousingCrisis
    1
@@ -7,7 +7,7 @@ console load ArchieCollab/1-Archie/AmericanHousingCrisis
   54
 
 #lightning cycle
-   0
+   2
 
 #lvl_The Trout Market is in a Concerning Recession
    6,R,Z
@@ -26,16 +26,17 @@ console load ArchieCollab/1-Archie/AmericanHousingCrisis
    5,L
    1,L,J
   13,L
-  10,R,D,X
+  14,R,D,X
    1,R,J
-   4,R
-  19,R,D,X
-  47,R,J
+  18,R,D,X
+  40,R,J
+   4,R,D
+   1,R
   14,R,Z
    1,R,J
-   8,R
+   6,R
    1,R,J
-  16,R,X
+  16,R,V
    6,R,Z
   34,R,J
   14,R,Z
@@ -675,4 +676,4 @@ endrepeat
   16,U,X
  135
 
-ChapterTime: 1:44.924(6172)
+ChapterTime: 1:44.873(6169)
