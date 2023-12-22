@@ -1,0 +1,120 @@
+unsafe
+#This will wipe the debug save!
+#Uncomment at your own peril.
+console clrsav
+console load ArchieCollab/0-Lobbies/1-Archie
+EnforceMaingame
+   1
+
+#Start
+Read,lobby/archie_0-1,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/ultra_fling_underpass,Start
+   1,O
+  32
+
+Read,lobby/archie_1-2,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/abbys_alley,Start
+   1,O
+  32
+
+Read,lobby/archie_2-3,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/over_the_hills,Start
+   1,O
+  32
+
+Read,lobby/archie_3-4,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/lemon_temple,Start
+   1,O
+  32
+
+Read,lobby/archie_4-5,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/starry_cliffside,Start
+   1,O
+  32
+
+Read,lobby/archie_5-6,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/meteor_shower,Start
+   1,O
+  32
+
+Read,lobby/archie_6-7,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/sinew,Start
+   1,O
+  32
+
+Read,lobby/archie_7-8,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/shiverburn_spire,Start
+   1,O
+  32
+
+Read,lobby/archie_8-9,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/madeline_can_move,Start
+   1,O
+  32
+
+Read,lobby/archie_9-10,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/aaa,Start
+   1,O
+  32
+
+Read,lobby/archie_10-11,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/untitled_theo_map,Start
+   1,O
+  32
+
+Read,lobby/archie_11-12,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/mach_6.22,Start
+   1,O
+  32
+
+Read,lobby/archie_12-13,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/forest_rush_b-side,Start
+   1,O
+  32
+
+Read,lobby/archie_13-14,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/american_housing_crisis,Start
+   1,O
+  32
+
+Read,lobby/archie_14-15,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/sanguine_insomnia,Start
+   1,O
+  32
+
+Read,lobby/archie_15-16,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/flipping_facility,Start
+   1,O
+  32
+
+Read,lobby/archie_16-17,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/firefly_cavern,Start
+   1,O
+  32
+
+Read,lobby/archie_17-18,lvl_lobby
+Read,EnterLevel,Start
+Read,maps/drowsy_dreamland,Start
+   1,O
+  32
+
+Read,lobby/archie_18-19,lvl_lobby
+
+FileTime: 18:32.820(65460)
