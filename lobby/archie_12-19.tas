@@ -1,6 +1,6 @@
-console hearts 16
-RecordCount: 141
+RecordCount: 251
 
+console hearts 16
 console load ArchieCollab/0-Lobbies/1-Archie 952 864
 console hearts 17
    1
@@ -12,83 +12,72 @@ console hearts 17
    7,R
    9,R,D,J
   16,R,D,X
-   6,R,J
+   6,R,D,J
   17,R,D,X
-   3,R,J
-   2,R
-   1
-   2,R
+   3,R,D,J
+   5,R
   14,R,U,X
    3,R,J,G
    9,R
-   5,R,J
-  11,R,D,X
+   6,R,J
+  10,R,D,X
    1,S
    1,D,J
   34
-   1,R,J
-   3,J
-   7,R,J
+  11,R,J
    5,R,K,G
-   2,R
+   1,R
   16,R,D,X
    2,R,J
    8,R
-   9,J
-  11,K,G
-  16,U,X
-   4,L,J,G
-   5,K
-  12,L,J,G
-  12,K,G
-   8,J
-   7,R
-   6,J
-  15,U,X
-  11,L,J,G
-   1
-   7,K,G
-   7
-  12,L,J
-  12,L,K,G
-   7,J
-  15,U,X
-   7,L,J,G
-   7
-  12,K
-   7,J
-  15,U,X
-  12,L,J,G
-   3,K,G
-   7
-  15,U,X
-  12,J,G
-  10,L,K,G
-   1
-   7,J
-   7
-   4,R,J
-  15,U,X
-  12,L,J,G
-   5,K,G
-   4,J
-  12,L,K,G
-   6,J,G
-   7
-   4,R,J
-   8,J
-  15,U,X
-  12,L,J,G
-  12,K,G
-   3,J,G
-   7
+   7,R,J
+   9,R,K,G
+   2,R
+   2,J,G
+   1,L,J
+  11,J
+  17,U,C
+  23,L,J
+   2,J
+   2
+  14,U,X
+  14,L,J
+   8,L
+   1,L,J
+   3,L
+   2,L,J
    5,J
-  11,R,K
-   1,R
-  14,L,U,X
-   1,L,J,G
-   9,L
-   4,L,J
-  13,U,X
+   3,L,J
+   6,L,K,G
+  14,U,X
+  13,L,J
+  11,L
+   6,L,J
+  15,U,X
+  15,L,J
+   8,L
+   1,L,J
+   3,L
+   3,L,J
+  15,U,X
+  15,L,J
+  11,L
+  12,L,J
+   3,K
+  16,U,Z
+  15,L,J
+   8,L
+   3,L
+   7,L,J
+   6,R,K
+  14,U,X
+  15,L,J
+  11,L
+   8,L,J
+  15,U,X
+  10,L
+   6,L,J
+  15,L,U,X
  135
-#0:12.801(753)
+
+#0:11.815(695)

@@ -1,96 +1,100 @@
-console hearts 16
-RecordCount:0
+RecordCount: 341
 
+console hearts 16
 console load ArchieCollab/0-Lobbies/1-Archie 1457 968
 console hearts 17
    1
 
 #lvl_lobby
   36
-   5,L,Z
+   4,L,Z
    1,L,J
    7,L
-  15,L,D,J
-  15,U,X
-  12,R,J,G
-   1
-   1,R,K,G
-   7,R
-   4,R,Z
-   1,R,J
-   5,R,K,G
+  14,L,J
+  15,U,Z
+   3,R,J,G
+   3,L,J
+   3,R,J
+   1,J
+   2
+   2,K,G
+   2,R
+   2,R,J,G
+   1,K,G
+   2,R,K
    6,R
-   4,R,J,G
-  12,R
    1,R,J
+   3,L
+   3
+   6,L,Z
+   1,R,J
+   3,R
+   1,R,J
+   4,R,D,K
+   5,R,D,X
+   1,R,K,G
+  12,R
+   3,R,D,J
+   2,R,K,G
   10,R,D,X
    1,S
    1,D,J
   34
-  11,R,J
-   3,R
-   6,R,K,G
-  17,R,D,X
-   2,R,J
-   9,R
-   2,R,J
-   9,R
-   4,R,J
-   5,K,G
-   6,R,K
-  16,U,X
-   5,L,J,G
-   4,K
-  12,L,J,G
-  12,L,K,G
-   8,J
-   7,R
-   6,J
-  15,U,X
-  11,L,J,G
-   1
-   7,K,G
-   7
-  12,L,J
-  12,L,K,G
-   7,J
-  15,U,X
-   7,L,J,G
-   7
-  12,K
-   7,J
-  15,U,X
-  12,L,J,G
-   3,K,G
-   7
-  15,U,X
-  12,J,G
-  10,L,K,G
-   1
-   7,J
-   7
-   4,R,J
-  15,U,X
-  12,L,J,G
-   5,K,G
+   1,R,D,J
+   9,R,J
+   7,R,K,G
+  15,R,D,X
+   1,R,D,J
+   5,R
+  11,R,K,G
+   2,R
+   6,R,J,G
+   2,K,G
+   2,L,J
+  10,J
+  17,U,C
+  23,L,J
+   2,J
+   2
+  14,U,X
+  14,L,J
+   8,L
+   1,L,J
+   3,L
+   3,L,J
    4,J
-  12,L,K,G
-   6,J,G
-   7
-   4,R,J
-   8,J
+   3,L,J
+   6,L,K,G
+  14,U,X
+  13,L,J
+  11,L
+   6,L,J
   15,U,X
-  12,L,J,G
-  12,K,G
-   3,J,G
-   7
-   5,J
-  11,R,K
-   1,R
-  14,L,U,X
-   1,L,J,G
-   9,L
-   4,L,J
-  13,U,X
+  15,L,J
+   8,L
+   1,L,J
+   3,L
+   3,L,J
+  15,U,X
+  15,L,J
+  11,L
+  12,L,J
+   3,K
+  16,U,Z
+  15,L,J
+   8,L
+   3,L
+   7,L,J
+   6,R,K
+  14,U,X
+  15,L,J
+  11,L
+   8,L,J
+  15,U,X
+  10,L
+   6,L,J
+  15,L,U,X
  135
-#0:12.937(761)
+
+#0:11.934(702)
+
