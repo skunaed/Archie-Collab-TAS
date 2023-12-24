@@ -1,4 +1,4 @@
-RecordCount: 2449
+RecordCount: 2682
 
 console load ArchieCollab/1-Archie/ShiverburnSpire
    1
@@ -68,21 +68,14 @@ console load ArchieCollab/1-Archie/ShiverburnSpire
    8,D,G
   24,G
    7,R,Z
-   8,R,J
-  15,R,D,X
-  18,R
-  22,R,J
-  14,R
-   4,L
-   5,L,D
-  11,D
+   6,R,J
+  41,R
+  29,R,J
+  20,D
+  14,R,D,X
    1,R,J
-  13,R
-   1,R,J
-  16,R
-   1,R,J
-  16,R
-   5,R,J
+   9,R
+   2,R,J
   53,X
    8,R
    2,R,J
@@ -105,17 +98,13 @@ console load ArchieCollab/1-Archie/ShiverburnSpire
   18,U,X
    5,L,Z
   16,L,J
-  17,L,Z
-   5,R,J
-   2,R
-   1
-  14,R,U,X
-  10,R
-   1
-   9,R
-   1,R,J,G
-  18,R,K,G
-  12,U,X
+  17,L,X
+  11,R,J
+   8,R
+  15,U,X
+  14,R,U,C
+   5,R,J,G
+  15,R
   20,L,C
    5,L,J,G
    1,L
@@ -131,24 +120,34 @@ console load ArchieCollab/1-Archie/ShiverburnSpire
    2,L,J
    8,L
   27,L,J
-  20,L,K
-  13,U,X
-   7,J
-  12,R,G
+  11,L,K
+  15,U,X
+  15,U,C
+   1,R,J,G
+   7,R
+   1,G
+   2,R,J,G
+   1,R,K,G
+   2,L,K
+   1,K
    1,L,K
-   7,L,J
-  18,U,X
+   1,K
+   1,L,K
+   1,K
+   1,L,K
+   1,K
+  14,J
   15,D,C
   12,R,D
-   3,R
+   2
+   1,D
    6,R,X
    1,R,J,G
    1,J
    5,R,J
-  13,R
+  10,R
   47,R,U,X
-  59,L,C
-   2,L,C
+  61,L,C
   16,U,X
    5,L
   15,U,C
@@ -195,8 +194,8 @@ console load ArchieCollab/1-Archie/ShiverburnSpire
    6,J
    4,R,J
    2,R,K,G
-  44,L,C
-  11,L,D,X
+  45,L,C
+  10,L,D,X
    3,L,J
    4,L
   41,L,D,X
@@ -268,14 +267,17 @@ console load ArchieCollab/1-Archie/ShiverburnSpire
   12,L,U,X
    1,J,G
   20,U,G
-  22,G
-   4,R,Z
-  16,R,J
-  15,R,D,X
-  15,R
-  13,R,X
-  13,R,C
-  18,R,U,X
+  15,G
+   7,U,G
+   1,R,G
+   6,R,Z
+   8,R,J
+  22,R,D
+   5,R
+   7,R,J
+   4,R
+  17,R,J
+  14,R,U,X
   17,R,D,C
   18,R,U,X
    9,L,C
@@ -286,11 +288,10 @@ console load ArchieCollab/1-Archie/ShiverburnSpire
   15,U,X
   10,L
   14
-#morse
    1,D
    1
    1,D
-  13
+  12
    1,D
    1
    2,D
@@ -314,7 +315,7 @@ console load ArchieCollab/1-Archie/ShiverburnSpire
    2,D
    8
    1,D
-  13
+  12
    1,D
    1
    1,D
@@ -513,4 +514,4 @@ console load ArchieCollab/1-Archie/ShiverburnSpire
   14,R,U,X
  135
 
-ChapterTime: 1:20.648(4744)
+ChapterTime: 1:19.951(4703)
