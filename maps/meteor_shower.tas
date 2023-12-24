@@ -1,4 +1,4 @@
-RecordCount: 1338
+RecordCount: 1380
 
 console load ArchieCollab/1-Archie/MeteorShower
    1
@@ -183,29 +183,24 @@ console load ArchieCollab/1-Archie/MeteorShower
    4,J
    9,R,J
    1,R,K,G
-   3,R,J,G
-  27,R
+   2,R,J,G
+  25,R
   15,R,X
-  11
+  12,R
   15,R,X
-   8
-  10,D,X
-   5,R
-  15,R,D,X
-   8,D
-  10,L,D,X
-   9,L,J
-  15,U,X
-  16,L
+  15,R,C
+  31,R,D
+  11,L,D,X
+   4,L,J
+  22,L,U,X
+  13,L,C
    3,L,J
-  10,L
+   3
    9,D,X
-   1,J
-   1
-   1,L
-   3,R
-   2,R,J
-  19,R
+   2,J
+  15,R
+   1,R,J
+  10,D,X
   30,J
   13
   15,R
@@ -370,4 +365,5 @@ endrepeat
    1,R,J
   10,R,U,X
  135
-ChapterTime: 0:51.816(3048)
+
+ChapterTime: 0:51.629(3037)
