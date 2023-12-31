@@ -1,4 +1,4 @@
-RecordCount: 1048
+RecordCount: 1100
 
 console load ArchieCollab/1-Archie/FlippingFacility
    1
@@ -59,20 +59,18 @@ console load ArchieCollab/1-Archie/FlippingFacility
   14,R,U,X
    8,R,J
    1,R,K,G
-   7,R
+   8,R
   24,U,X
   20,D,C
-  14,R,D,X
-   1,R,J
-   2,R
+  12,R,D,X
+   3,R,J
   17,R,D,X
    4,R,J
   13,R
-   8,R,J,G
-   1,R
+   7,R,J,G
+   2,R
   15,R,D,X
-   8,R,J
-   3,R
+  11,R,J
   25,U,X
   10,L,U,C
    5,L,J
@@ -324,4 +322,4 @@ console load ArchieCollab/1-Archie/FlippingFacility
   37,R,C
  103,R
 
-ChapterTime: 0:46.529(2737)
+ChapterTime: 0:46.512(2736)
