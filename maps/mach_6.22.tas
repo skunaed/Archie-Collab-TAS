@@ -1,4 +1,4 @@
-RecordCount: 1388
+RecordCount: 1399
 
 console load ArchieCollab/1-Archie/Mach6Point22
    1
@@ -129,7 +129,6 @@ EndStunPause
    2,R,J
   28,R,D,X
    4,R,J
-   1,R,K
   15,R,D,X
   20,R,D
    5,L,D
@@ -144,7 +143,8 @@ EndStunPause
    4,R,J
   11,R,K
   15,R,D,X
-  15,R
+   8,R
+   7,R,D
   11,R,J
    5,R,D,X
   40
@@ -325,7 +325,7 @@ EndStunPause
    2,R,J
    7,R
 #Spinner Cycle [soundbarrier]
-   2
+   0
 #
    4,R,Z
    1,R,J
@@ -384,4 +384,4 @@ EndStunPause
    4,R,J
  140,R,J,X
 
-ChapterTime: 0:52.173(3069)
+ChapterTime: 0:52.122(3066)
