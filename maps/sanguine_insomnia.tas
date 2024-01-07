@@ -1,6 +1,6 @@
 #TAS by Lmjacks
 
-RecordCount: 1962
+RecordCount: 2053
 
 console load ArchieCollab/1-Archie/SanguineInsomnia
    1
@@ -66,18 +66,23 @@ StunPause
    2,D
    2,R,D
    8,D
-   8,L,D
+   3,L,D
+   5,L
 EndStunPause
-  20,L,D
-  15,L,D,X
-   1,G
-   9,R,D
-  13,D
-  34,D,X
-  13,R
-   4,R
-  30,R,D,X
-  22,D
+   1,L
+  20,L,D,X
+   6,D
+   1,R,J
+  15,D,X
+  10,R,D
+   6,D
+  24,D,X
+  13,D,C
+  17,R
+  31,R,D,X
+  19,D
+#+3f fish
+   3
 #spinner cycle
    0
 #two options work
@@ -271,8 +276,8 @@ EndStunPause
   11,R,U,X
    2,R,J,G
    7,R
-#spinner cyucle
-   1,D
+#spinner cycle
+   2,D
 #
    2,R,J
   14,U,X
@@ -307,11 +312,7 @@ EndStunPause
   11,U,X
    8
 #more speed here
-   7,L
-   1,L
-   1,L
-   1,L
-  70,L
+  80,L
    2
   10,L
 StunPause
