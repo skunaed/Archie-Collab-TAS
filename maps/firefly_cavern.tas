@@ -1,4 +1,4 @@
-RecordCount: 1889
+RecordCount: 1972
 
 console load ArchieCollab/1-Archie/FireflyCavern
    1
@@ -73,17 +73,14 @@ console load ArchieCollab/1-Archie/FireflyCavern
   11,L,K,G
   12,L
   19,U,X
-  13,G
-   1,G
-   2,U,G
-   1,J,G
-   1,L,K,G
-   3,R,D
-   1,D
-   2,R,D
-  33,D
+  14,L
+   1,J
+   1,K,G
+  10,D
+  20,R,D
+   8,D
    2
-   4,L,Z
+   4,R,Z
    1,R,J
    4,R
   40
@@ -269,15 +266,16 @@ console load ArchieCollab/1-Archie/FireflyCavern
   40
 
 #lvl_07
-  28,L,J
-   3,J
-   6,L,J
-   1,K,G
-   4,L,K
-  28,L,X
-  24,L,U,C
-  21,G
-  15,D,G
+  22,L,J
+   6,L
+  15,L,X
+  17,L
+   1,L,J,G
+  15,L,K,G
+   8,L,U,C
+   1,J,G
+  23,G
+   9,D,G
    1,L,J,G
    1,L,K,G
    1,L
@@ -379,4 +377,4 @@ console load ArchieCollab/1-Archie/FireflyCavern
   15,U,X
  135
 
-ChapterTime: 0:52.581(3093)
+ChapterTime: 0:52.309(3077)
