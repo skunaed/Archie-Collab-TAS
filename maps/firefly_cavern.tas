@@ -1,4 +1,4 @@
-RecordCount: 1972
+RecordCount: 2032
 
 console load ArchieCollab/1-Archie/FireflyCavern
    1
@@ -110,17 +110,20 @@ console load ArchieCollab/1-Archie/FireflyCavern
   11,J
   15,R,U,X
   20,L,D
-  16,D
+  14,D
+   2,R,D
   10,L,D,X
    1,R,J
-  10,R
-  26,R,J
+   7,R
+   1,R,J
+   2,R
+  25,R,J
   18,R,X
   15,R,C
-   3,R,D
-  21,D
-  20,G
-   2,D,G
+   6,R
+  16,L
+  23,R,G
+   1,D,G
 #please find a way to keep speed in next room
    1,R,J,G
    1,K,G
@@ -146,10 +149,15 @@ console load ArchieCollab/1-Archie/FireflyCavern
    7,R
    1,R,J
    2,J
-  30,R,J
-  25,R,X
-  10,R,Z
-  11,R,J
+  27,R,J
+   1,R
+   2,R,J
+   1,R
+  24,R,X
+   4,R,Z
+   1,R,J
+   6,R
+   7,R,J
   14,R,D,X
    1,R,J
   11,R,D,X
@@ -377,4 +385,4 @@ console load ArchieCollab/1-Archie/FireflyCavern
   15,U,X
  135
 
-ChapterTime: 0:52.309(3077)
+ChapterTime: 0:52.241(3073)
