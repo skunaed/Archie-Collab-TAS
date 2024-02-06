@@ -1,4 +1,4 @@
-RecordCount: 2177
+RecordCount: 2233
 
 console load ArchieCollab/1-Archie/FireflyCavern
    1
@@ -319,17 +319,15 @@ console load ArchieCollab/1-Archie/FireflyCavern
    3,K,G
    2
    5,J,G
-   4,K,G
-  17
-  13,L
-   5,R,Z
+   7
+  15,D,X
+  12,L,D,C
    1,R,J
-   5,R
-   3,R,J
-  13,R
+   6,R
+   6,R,J
+  12,R
   18,R,U,X
-  15,R,C
-  14,R
+  30,R,C
    6,R,Z
    1,R,J
    7,R
@@ -385,4 +383,4 @@ console load ArchieCollab/1-Archie/FireflyCavern
   15,U,X
  135
 
-ChapterTime: 0:51.952(3056)
+ChapterTime: 0:51.884(3052)
