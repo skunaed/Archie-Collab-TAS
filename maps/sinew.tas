@@ -1,4 +1,4 @@
-RecordCount: 2109
+RecordCount: 2180
 
 console load ArchieCollab/1-Archie/Sinew
    1
@@ -89,13 +89,15 @@ console load ArchieCollab/1-Archie/Sinew
    1,J
   25,R,J
   14,R,Z
-  20,L,J
-  14,U,X
-  13,J
-   5
+   1,L,J
+   2,J
   15,U,X
-  10,R
-   2,R,J
+   5,R
+  15,U,C
+   1,R
+  15,L,J
+  11
+   2,J
   15,U,X
   14,U,C
    5,R,J
@@ -135,11 +137,13 @@ console load ArchieCollab/1-Archie/Sinew
    5,L,K
   22,R,X
    4,L,G
+   9,J,G
   15,U,X
-  12,J,G
-   5,K,G
-  15,U,C
-  30,L,J
+   2,R,J
+  12,L,J
+  12,U,C
+  20,L,J
+   5,L
   16,L,Z
   13,L,U,C
   25,R
@@ -372,5 +376,5 @@ console load ArchieCollab/1-Archie/Sinew
   14,L,U,X
  135
 
-ChapterTime: 1:03.002(3706)
+ChapterTime: 1:02.764(3692)
  
