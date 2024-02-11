@@ -1,4 +1,4 @@
-RecordCount: 3273
+RecordCount: 3381
 
 console load ArchieCollab/1-Archie/AmericanHousingCrisis
    1
@@ -56,36 +56,31 @@ console load ArchieCollab/1-Archie/AmericanHousingCrisis
    2,R,J
   18,U,X
    8,J
-  13,L,X
-   1,L,J,G
-   2,L,K,G
-   5,L
-   5,L,J
+  14,L,Z
+   7,L,J
   14,L,X
-   4,L,J,G
-  27,L
-  11,L,D
-   6,L,Z
+   7,L,J,G
+  29,L,D,X
    1,L,J
-   7,L
+   9,L,D,X
    1,L,J
-   5,L,D,X
-   1,L,J
+   4,L
 
 #lvl_Cancellation of the NAFTA Will Increase Steel Prices In Canada
-   7,L
-  11,L,D,J
-  19,U,X
+   3
+  11,D,J
+  18,U,X
   15,L,C
-  18,L,D
-  18,R,D,X
-   4,R
-   5,L
+  10,L,D
+   7,D
+  15,R,D,X
+   6,R
+   4,L
   15,L,D,X
-  10,L
-   6,L,J
+  11,L
+   5,L,J
    8,L,D,X
-   8,L,J
+   9,L
   16,L,X
    4,L,Z
   17,L,J
@@ -684,4 +679,4 @@ console load ArchieCollab/1-Archie/AmericanHousingCrisis
   16,U,X
  135
 
-ChapterTime: 1:43.105(6065)
+ChapterTime: 1:42.697(6041)
