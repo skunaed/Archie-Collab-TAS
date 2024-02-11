@@ -1,4 +1,4 @@
-RecordCount: 3241
+RecordCount: 3273
 
 console load ArchieCollab/1-Archie/AmericanHousingCrisis
    1
@@ -8,7 +8,7 @@ console load ArchieCollab/1-Archie/AmericanHousingCrisis
 
 #lightning cycle
 #2/3
-   1
+   0
 
 #lvl_The Trout Market is in a Concerning Recession
    6,R,Z
@@ -58,31 +58,22 @@ console load ArchieCollab/1-Archie/AmericanHousingCrisis
    8,J
   13,L,X
    1,L,J,G
-  22,L,K,G
-   8,L
-#alternate cycle
-#  57,L,U,X
-#stunpause
-#  6,L
-#endstunpause
-#   7,L
-##
-  58,L,U,X
-stunpause
-   6,L
-endstunpause
-   6,L
-##
+   2,L,K,G
+   5,L
+   5,L,J
+  14,L,X
+   4,L,J,G
+  27,L
+  11,L,D
    6,L,Z
    1,L,J
    7,L
    1,L,J
    5,L,D,X
    1,L,J
-   1,L
 
 #lvl_Cancellation of the NAFTA Will Increase Steel Prices In Canada
-   6,L
+   7,L
   11,L,D,J
   19,U,X
   15,L,C
@@ -146,8 +137,7 @@ endstunpause
    1,L,J
 
 #lvl_Madeline does not vote in the US Presidential Election
-   4,L
-   1,L
+   5,L
    2
    1,L,J
   14,L,U,X
@@ -694,4 +684,4 @@ endstunpause
   16,U,X
  135
 
-ChapterTime: 1:44.227(6131)
+ChapterTime: 1:43.105(6065)
