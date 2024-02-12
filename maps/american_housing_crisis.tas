@@ -1,4 +1,4 @@
-RecordCount: 3655
+RecordCount: 3674
 
 console load ArchieCollab/1-Archie/AmericanHousingCrisis
    1
@@ -93,19 +93,14 @@ console load ArchieCollab/1-Archie/AmericanHousingCrisis
    1,L
   23,L,J
   29,L,U,X
+  17,L,Z
+   8,L
+   1,R
+   1
+  15,U,C
+   8,L
+  17,U,X
   17,L,U,C
-  13,L
-  17,R,U,X
-   1,J
-   6,L,J
-   3,J
-   2,R,K,G
-   1,L,K
-   1,K
-   1,L,K
-   1,J
-  15,U,X
-  15,L,U,C
    6,R
   15,D,X
    4,R,D
@@ -679,4 +674,4 @@ console load ArchieCollab/1-Archie/AmericanHousingCrisis
   16,U,X
  135
 
-ChapterTime: 1:42.255(6015)
+ChapterTime: 1:42.102(6006)
