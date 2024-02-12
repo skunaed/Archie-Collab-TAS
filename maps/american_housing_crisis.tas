@@ -1,4 +1,4 @@
-RecordCount: 3381
+RecordCount: 3655
 
 console load ArchieCollab/1-Archie/AmericanHousingCrisis
    1
@@ -22,9 +22,7 @@ console load ArchieCollab/1-Archie/AmericanHousingCrisis
    1,L,J
    1,L,K
   12,L
-   5,D,X
-   5
-   5,L
+  15,D,X
    1,L,J
   13,L
   14,R,D,X
@@ -77,53 +75,55 @@ console load ArchieCollab/1-Archie/AmericanHousingCrisis
    6,R
    4,L
   15,L,D,X
-  11,L
-   5,L,J
-   8,L,D,X
-   9,L
-  16,L,X
-   4,L,Z
-  17,L,J
-  14,L,U,X
-   6
-  14,R
-  15,R,U,X
-  10,R,D,C
-   1,R,J
-   4,R
-  15,R,D,X
-  35,R,U,G
-   6,J,G
-   1,K
-  11,L,K
-   5,K
-   9,L,J
-  18,L,X
-   6,L,D,C
-   2,L,J
-  12,L
-   6,L,X
-   1,L,J,G
-  19,D
-   8,R,D
-   6,L,D
-   5,L
-  15,L,D,X
    4,L
-   6,L,D
-  12,D
-  27,R,X
+   2
+   2,L
+   2,L,D
+  17,L,J,G
+  19,L,X
+   4,R,J
+   3,J
+   3
+  15,R,D,X
+   4
+  12,R,D,X
+   1,L,J
+   2,L
+   2,L,J
+   1,L
+  23,L,J
+  29,L,U,X
+  17,L,U,C
+  13,L
+  17,R,U,X
+   1,J
+   6,L,J
+   3,J
+   2,R,K,G
+   1,L,K
+   1,K
+   1,L,K
+   1,J
+  15,U,X
+  15,L,U,C
+   6,R
+  15,D,X
+   4,R,D
+   5,D
+  27,L,D,X
   15,D,C
-   4,L,Z
-  22,L,J
-  13,U,X
-  14,L,J
-  21,L,X
-  15,U,C
-   5,L
-  10,R,Z
-  43,L,J
-  21,L,X
+  11,R,D
+   7,K
+  13
+   9,R,Z
+  20,L,J
+  12,U,C
+  16,L,J
+  23,L,C
+  15,U,X
+  14,R,Z
+  44,L,J
+  20,L,X
    6,L,Z
    1,L,J
    7,L
@@ -679,4 +679,4 @@ console load ArchieCollab/1-Archie/AmericanHousingCrisis
   16,U,X
  135
 
-ChapterTime: 1:42.697(6041)
+ChapterTime: 1:42.255(6015)
