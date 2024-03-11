@@ -1,4 +1,4 @@
-RecordCount: 3471
+RecordCount: 3554
 
 console load ArchieCollab/1-Archie/OverTheHills
    1
@@ -63,17 +63,21 @@ console load ArchieCollab/1-Archie/OverTheHills
    2,R
   15,R,X
   18,D
-  12,L,D
-   8,L,J,G
-  11,L,D
-  12,L,Z
+   8,L,D
+   9,D
+   2,L
+   3,L
+   2,D
+   4,L,Z
    1,R,J
-   2,R,K
-  15,R,D,X
-   5,R
+   6,R
    1,R,J
-  20,R,K,G
-  23,R,J
+   3,R
+   8,R,D,X
+   1,R,J,G
+  11,R
+  20,R,J
+  22,R,K
   14,R,X
    3,R,J
   10,U,X
@@ -644,4 +648,4 @@ endrepeat
   34,D,X
  101,R
 
-ChapterTime: 1:25.476(5028)
+ChapterTime: 1:25.323(5019)
