@@ -1,4 +1,4 @@
-RecordCount: 3202
+RecordCount: 4186
 
 console load ArchieCollab/1-Archie/Sinew
    1
@@ -19,25 +19,29 @@ console load ArchieCollab/1-Archie/Sinew
   18,L
   15,L,U,X
   37,L,C
-  37,R,G
-   6,K,G
-   2
-   9,J,G
-   5,L,J
+  46,R,G
+   4,L,K
+   7,U,X
+  21,L,J
   14,U,X
-   8,R,J
-  14,U,X
-  14,J
-   2,L,K,G
+   3,J
+   7,L,J
+   3,R,J
+   1,L,J
+   1,L
+   1,L,K,G
    7,L
   13,U,X
   40
 
 #lvl_a1
-  11,R
-   5,R,Z
+   4,R,J
+   6,R
+   1,K
+   4,R,Z
    1,R,J
-   7,R
+   7,R,C
+
   11,R,J
    9,R
   15,U,Z
@@ -54,15 +58,19 @@ console load ArchieCollab/1-Archie/Sinew
    6,L
    2,L,J,G
    5,L
-   8,L,J,G
-  12,L,Z
-   3,R,J
+   1,J,G
+   6,L,J
+  14,L,Z
+   1,R,J
   15,U,X
-   2,R
-  17,U,X
-  15,R,J
+   2,L
+   5,L,J
+   1,L
+  14,U,X
+  14,L,J
+   1,L
   14,L,U,Z
-  11,J,G
+   6,L,K,G
    5,L,X
    3,L
   12
@@ -169,9 +177,9 @@ console load ArchieCollab/1-Archie/Sinew
 
 #lvl_a4
    8,R,J
-   8,R,K,G
-   3,R
-   6,R,X
+   6,R,K,G
+   4,K
+   7,R,X
    1,R,J,G
    1,J,G
    9,R,J,G
@@ -240,53 +248,66 @@ console load ArchieCollab/1-Archie/Sinew
   16,R,C
    4,L,J
   23,U,X
-   5,L,Z
+  10,L,C
    1,L,J
-   7,L
-  21,L,J
+   1,J
+   5,L,J
    2,L
-  14,L,U,X
-   1,R
-  20,R,X
-   2
-   1,R
-   4
-  18,R,U,C
-   1,L,J,G
-  17,R,J
-   5,K
-  15,U,C
+   3
+  15,U,Z
+  17,U,C
    3,R
-   2,R,J
-  41,U,X
-   7
+   1,K,G
   15,U,X
-  10,L,Z
-  11,R,J
-  10,U,X
-  19,L,J
-  16,L,U,X
-   9,R
-  15,U,C
-  17,L,Z
+   6,R
+   1
+   2,R
+  15,U,Z
+   5,R
+   1
+  27
+   4
+   5,R
+   3
+   3,R
+   1,L,J,G
+Repeat 4
+   1,R,J
+   1,J
+EndRepeat
+   1,R,J
+   5,L,U,X
+  10,K,G
+   4,R,K
+  26,L,U,X
+   7,R
+  15,U,X
+   2,L
+  11,L,C
+  10,R
+  18,U,C
+  18,L,Z
    4,L,J
    1,L,K
    7,L
   20,L,U,Z
   22,R,X
    4,L,G
-  12,K,G
-   1,R,J
-  16,R,K
-   1,R,J,G
-   3,K,G
-  15,R,K
-  21,R,U,X
+  11,U,X
+   4,R,J
+   1,J
+   2,R,J
+   3,R
+   1
+   7,R
+   1,J
+  17,R,J
+  20,R,U,X
   15,U,C
-   9,R
-  15,R,U,X
+   8,R
+  16,R,U,X
   15,U,C
-   4,R
+   3,R
   27,L,J
   12,K
    5,L,J,G
@@ -380,4 +401,4 @@ console load ArchieCollab/1-Archie/Sinew
   14,L,U,X
  135
 
-ChapterTime: 1:01.234(3602)
+ChapterTime: 1:00.486(3558)
