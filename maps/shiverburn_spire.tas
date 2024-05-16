@@ -1,4 +1,4 @@
-RecordCount: 2682
+RecordCount: 2935
 
 console load ArchieCollab/1-Archie/ShiverburnSpire
    1
@@ -263,98 +263,35 @@ console load ArchieCollab/1-Archie/ShiverburnSpire
    1,R,J
   17,R
   11,D,X
+##gg o7
   33,R,C
-  12,L,U,X
-   1,J,G
-  20,U,G
-  15,G
-   7,U,G
-   1,R,G
-   6,R,Z
-   8,R,J
-  22,R,D
-   5,R
-   7,R,J
-   4,R
-  17,R,J
-  14,R,U,X
-  17,R,D,C
-  18,R,U,X
-   9,L,C
-  17,L,D,X
-  13,L,C
-  17,L,U,X
-  22,L,U,C
-  15,U,X
-  10,L
-  14
-   1,D
+  15,L,U,X
+   1,L,J,G
+   6
+   1,L
+  11,G
+  12,D,G
+   6,G
+   1,R,J
+  11,R,Z
+   8,R,J,G
+  15,R,D,X
+  10,R
+  34,U,X
+   7,L,C
+   1,L,J,G
+   9,L
+#luzid the goat
+repeat 47
    1
    1,D
-  12
-   1,D
+endrepeat
    1
-   2,D
-   1
-   1,D
-   1
-   1,D
-   8
-   2,D
-   1
-   2,D
-   1
-   2,D
-   8
-   1,D
-   1
-   1,D
-   1
-   1,D
-   1
-   2,D
-   8
-   1,D
-  12
-   1,D
-   1
-   1,D
-   1
-   1,D
-   8
-   1,D
-   8
-   1,D
-   1
-   1,D
-   1
-   1,D
-   1
-   2,D
-   8
-   1,D
-   1
-   2,D
-   8
-   2,D
-   1
-   1,D
-   1
-   1,D
-   8
-   1,D
-   1
-   2,D
-   1
-   1,D
-   8
-   1,D
-   1
-   2,D
-   5,R,J
-  14,U,X
+   2,R,J
+   5,J
+  13,U,X
    4,L,J
-  13,L
+  12,L
    4,L,K,G
    4,L,J,G
    8,L,K,G
@@ -366,7 +303,7 @@ console load ArchieCollab/1-Archie/ShiverburnSpire
    5,K
   11,U,Z
   13,J
-  13,R,U,X
+  13,R,U,Z
    1,R,J,G
   13,R
    1,R,J
@@ -514,4 +451,4 @@ console load ArchieCollab/1-Archie/ShiverburnSpire
   14,R,U,X
  135
 
-ChapterTime: 1:19.951(4703)
+ChapterTime: 1:16.857(4521)
