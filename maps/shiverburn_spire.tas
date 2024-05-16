@@ -1,4 +1,4 @@
-RecordCount: 2935
+RecordCount: 2964
 
 console load ArchieCollab/1-Archie/ShiverburnSpire
    1
@@ -305,21 +305,21 @@ endrepeat
   13,J
   13,R,U,Z
    1,R,J,G
-  13,R
-   1,R,J
-   3,R
+  17,R
   40
 
 #lvl_speed-sev-b3
-   6,R,D,X
+   4,R,Z
    1,R,J
-   8,R
-  16,R,D,X
+   3
+   4,R
+   3,R,D
    1,R,J
-  17,R
-   2,R,J
-  15,R,U,X
-   7,R,U,C
+  15,R,D,X
+   1,R
+  12,R,J
+  11,R
+  14,R,U,Z
   66,X
    6,L,D,C
    1,L,J
@@ -451,4 +451,4 @@ endrepeat
   14,R,U,X
  135
 
-ChapterTime: 1:16.857(4521)
+ChapterTime: 1:16.840(4520)
