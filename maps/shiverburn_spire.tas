@@ -1,4 +1,4 @@
-RecordCount: 2964
+RecordCount: 3109
 
 console load ArchieCollab/1-Archie/ShiverburnSpire
    1
@@ -97,30 +97,23 @@ console load ArchieCollab/1-Archie/ShiverburnSpire
    6,J
   18,U,X
    5,L,Z
-  16,L,J
+  15,L,J
+   1,J
   17,L,X
-  11,R,J
-   8,R
+  29,R,J
+  16,U,Z
+   3,L
+  22,L,J
   15,U,X
-  14,R,U,C
-   5,R,J,G
-  15,R
-  20,L,C
-   5,L,J,G
-   1,L
-   4
-   1,J
-   1,L,J
-   1,J
-  15,U,X
-  21,R,U,C
-  18,R,Z
-  12,U,C
-  12,R,D,X
-   2,L,J
-   8,L
-  27,L,J
-  11,L,K
+  21,R
+  20,R,C
+   1
+  10,U,X
+   7,J
+   2,R,J
+   5,L,K
+  41,L,C
+  12,L,J,G
   15,U,X
   15,U,C
    1,R,J,G
@@ -136,7 +129,8 @@ console load ArchieCollab/1-Archie/ShiverburnSpire
    1,K
    1,L,K
    1,K
-  14,J
+  10,J
+   5
   15,D,C
   12,R,D
    2
@@ -145,7 +139,7 @@ console load ArchieCollab/1-Archie/ShiverburnSpire
    1,R,J,G
    1,J
    5,R,J
-  10,R
+   9,R
   47,R,U,X
   61,L,C
   16,U,X
@@ -451,4 +445,4 @@ endrepeat
   14,R,U,X
  135
 
-ChapterTime: 1:16.840(4520)
+ChapterTime: 1:16.602(4506)
